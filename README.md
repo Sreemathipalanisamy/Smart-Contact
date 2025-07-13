@@ -26,11 +26,6 @@ The **Smart Contact** is a console-based application developed in C++. It allows
 - Display all contacts
 - Sort contacts alphabetically by name
 
-### User Interface
-- Clear and interactive menu system
-- Validated user input
-- Informative feedback messages
-
 ### Data Structure
 - Uses `std::vector<Contact>` for dynamic contact storage
 - Efficient searching and sorting using standard algorithms
